@@ -19,6 +19,7 @@ sonar {
         property "sonar.projectKey", "soen"
         property "sonar.projectName", "soen"
     }
+
 }
 apply plugin: 'com.android.application'
 
